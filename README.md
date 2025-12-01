@@ -1,5 +1,5 @@
 PROJECT: Password Complexity Checker
-Language used: Python
+LANGUAGE used: Python
 INTERNSHIP: Codecraft Infotech – Cybersecurity_03
 
 This program evaluates the strength of a user-entered password based on:
